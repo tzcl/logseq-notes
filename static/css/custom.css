@@ -1,0 +1,3 @@
+.ls-block[haschild] > div > .block-content-wrapper::before {
+  left: -13px;
+}
