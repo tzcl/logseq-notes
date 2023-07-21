@@ -1,6 +1,9 @@
 /* Use logseq-monokai */
 @import url('https://cdn.jsdelivr.net/gh/tzcl/logseq-monokai@main/custom.css');
 
+/* Hide unlinked references */
+.references.page-unlinked { display: none; }
+
 /*** Publishing: Hide things that aren't very useful for a read-only view */
 
 /** Hide page properties (public pages will always have public: true) */
